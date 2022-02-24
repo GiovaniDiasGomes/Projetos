@@ -32,7 +32,7 @@ Ao clicar em "CONTATO", será redirecionado para uma nova tela com email e telef
 
 Tela principal - app/src/main/res/layout/activity_main.xml  
 Código - app/src/main/java/com/example/projeto_sorteio/MainActivity.kt  
-Imagens - imagem-apoio/logo.png
+Imagens - imagens-institucional
  
 
 ## Autor
