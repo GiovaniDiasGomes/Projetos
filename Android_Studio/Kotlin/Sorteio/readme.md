@@ -27,8 +27,8 @@ Em seguida, será apresentado na tela o resultado do sorteio.
 
 ## Links
 
-Tela principal - Sorteio/app/src/main/res/layout/activity_main.xml  
-Código - Sorteio/app/src/main/java/com/example/projeto_sorteio/MainActivity.kt
+Tela principal - app/src/main/res/layout/activity_main.xml  
+Código - app/src/main/java/com/example/projeto_sorteio/MainActivity.kt
  
 
 ## Autor
