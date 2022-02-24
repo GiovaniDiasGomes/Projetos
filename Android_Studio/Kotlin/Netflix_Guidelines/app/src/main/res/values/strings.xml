@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NetfLix Guidelines</string>
+    <string name="texto_nome_da_serie">House of Cards</string>
+    <string name="texto_tempo_do_video">01:00</string>
+    <string name="texto_tempo_total_video">41:20</string>
+    <string name="texto_temporada_episodio">S1: E2</string>
+    <string name="imagem_video">Vídeo</string>
+    <string name="imagem_pausar">Pausar</string>
+    <string name="imagem_parar">Parar</string>
+    <string name="imagem_preferencias">Preferências</string>
+    <string name="imagem_volume">Volume</string>
+    <string name="iamgem_navegar_entre_epis_dios">Navegar entre episódios</string>
+    <string name="imagem_comentarios">Comentários</string>
+    <string name="imagem_favoritos">Favoritos</string>
+</resources>
