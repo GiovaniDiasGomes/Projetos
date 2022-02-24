@@ -1,9 +1,6 @@
+## Nome do Projeto - Frases do dia
 
- 
-## Nome do Projeto - Sorteio
-
-Esse projeto visa realizar um sorteio, escolhendo um número de 0 a 10
-o qual será exibido na tela do APP, de forma randômica.
+Esse projeto visa disponibilizar na tela do APP uma frase do dia de forma randômica.
  
  
 ## Tecnologias 
@@ -22,8 +19,8 @@ Aqui estão as tecnologias usadas no projeto.
  
 ## Como usar
  
-Na tela do app, basta clicar no botão "JOGAR" para realizar o sorteio.  
-Em seguida, será apresentado na tela o resultado do sorteio.
+Na tela do app, basta clicar no botão "NOVA FRASE".  
+Em seguida, será apresentado na tela a frase selecionada.
 
 ## Links
 

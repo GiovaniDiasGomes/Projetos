@@ -1,5 +1,3 @@
-
- 
 ## Nome do Projeto - Sorteio
 
 Esse projeto visa realizar um sorteio, escolhendo um número de 0 a 10
