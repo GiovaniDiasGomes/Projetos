@@ -25,7 +25,7 @@ Em seguida, será apresentado na tela a frase selecionada.
 ## Links
 
 Tela principal - app/src/main/res/layout/activity_main.xml  
-Código - app/src/main/java/com/example/projeto_sorteio/MainActivity.kt
+Código - app/src/main/java/com/example/projeto_sorteio/MainActivity.kt  
 Imagens - imagens-apoio/logo.png 
 
 ## Autor
