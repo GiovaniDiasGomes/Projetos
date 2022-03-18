@@ -1,4 +1,4 @@
-## Nome do Projeto - Álcool ou Gasolina
+## Nome do Projeto - Aprenda Inglês
 
 Esse projeto visa disponibilizar o aprendizado inicial da língua inglesa
 utilizando imagens de animais, números, vogais e seus respectivos sons
@@ -17,7 +17,7 @@ Aqui estão as tecnologias usadas no projeto.
  
 ## Como usar
  
-Na tela do app, é posspivel navegar entre as abas informadas no parte superior do APP, 
+Na tela do app, é possível navegar entre as abas informadas no parte superior do APP, 
 "Bichos", "Números" e "Vogais".  
 Dentro da aba é possível selecionar uma das imagens, que vai ativar a pronúncia em inglês 
 do objeto, realizando assim, o treinamento básico das primeira palavras em outra língua.
