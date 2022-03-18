@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/segundo_fundo"
+    tools:context=".Fragment.VogaisFragment">
+
+    <ImageButton
+        android:id="@+id/botaoA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:src="@drawable/a"
+        app:layout_constraintBottom_toTopOf="@+id/botaoE"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/botaoE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:src="@drawable/e"
+        app:layout_constraintBottom_toTopOf="@+id/botaoI"
+        app:layout_constraintStart_toStartOf="@+id/botaoA"
+        app:layout_constraintTop_toBottomOf="@+id/botaoA" />
+
+    <ImageButton
+        android:id="@+id/botaoI"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:src="@drawable/i"
+        app:layout_constraintBottom_toTopOf="@+id/botaoO"
+        app:layout_constraintStart_toStartOf="@+id/botaoO"
+        app:layout_constraintTop_toBottomOf="@+id/botaoE" />
+
+    <ImageButton
+        android:id="@+id/botaoO"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:src="@drawable/o"
+        app:layout_constraintBottom_toTopOf="@+id/botaoU"
+        app:layout_constraintStart_toStartOf="@+id/botaoU"
+        app:layout_constraintTop_toBottomOf="@+id/botaoI" />
+
+    <ImageButton
+        android:id="@+id/botaoU"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:src="@drawable/u"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/botaoO" />
+</androidx.constraintlayout.widget.ConstraintLayout>

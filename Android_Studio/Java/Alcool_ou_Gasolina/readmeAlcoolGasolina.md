@@ -24,7 +24,7 @@ Após realizar o cálculo, será apresentado na tela uma frase indicando qual co
 ## Links
 
 Tela principal - app/src/main/res/layout/activity_main.xml  
-Código - app/src/main/java/com/example/alcoolougasolina/MainActivity.kt  
+Código - app/src/main/java/com/example/alcoolougasolina/MainActivity.java  
 Imagens - imagem-apoio/logo.png
  
 ## Autor
