@@ -23,7 +23,7 @@ Na tela do app, é possível navegar entre as abas informadas no parte superior 
 ## Links
 
 Tela principal - app/src/main/res/layout/activity_main.xml  
-Código - app/src/main/java/com/example/projeto_sorteio/MainActivity.java  
+Código - app/src/main/java/com/example/abas/MainActivity.java  
 
 ## Autor
  
