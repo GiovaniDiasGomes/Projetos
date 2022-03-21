@@ -25,7 +25,7 @@ em outra notícia.
 ## Links
 
 Tela principal - app/src/main/res/layout/activity_main.xml  
-Código - app/src/main/java/com/example/cardview/MainActivity.java  
+Código - app/src/main/java/com/example/constraintlayout/MainActivity.java  
 Imagens - arquivos-necessarios/
  
 ## Autor
