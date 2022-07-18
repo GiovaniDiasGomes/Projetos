@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Uber</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="titulo_cadastro">Cadastrar uma conta</string>
+    <string name="titulo_login">Acessar minha conta</string>
+    <string name="campo_nome">Nome</string>
+    <string name="campo_email">Email</string>
+    <string name="campo_senha">Senha</string>
+    <string name="title_activity_passageiro">PassageiroActivity</string>
+    <string name="title_activity_corrida">CorridaActivity</string>
+</resources>
