@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Ifood</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="logar">Logar</string>
+    <string name="cadastrar">Cadastre-se</string>
+    <string name="botao_acessar">Acessar</string>
+    <string name="imagem_ifood">Ifood</string>
+    <string name="usuario">Usuário</string>
+    <string name="endereco_completo">Endereço completo</string>
+    <string name="empresa">Empresa</string>
+    <string name="nome_empresa">Nome Empresa</string>
+    <string name="nome">Nome</string>
+    <string name="menu_produto">Novo Produto</string>
+    <string name="menu_configuracoes">Configurações</string>
+    <string name="menu_sair">Sair</string>
+    <string name="categoria">Categoria</string>
+    <string name="tempo_entrega">Tempo entrega</string>
+    <string name="taxa_entrega">Taxa entrega</string>
+    <string name="salvar">Salvar</string>
+    <string name="descricao">Descrição</string>
+    <string name="preco">Preço</string>
+    <string name="ver_carrinho">Ver carrinho</string>
+    <string name="quantidade">Qtd: 0</string>
+    <string name="valor_reais">R$ 0</string>
+    <string name="pedidos">Pedidos</string>
+</resources>

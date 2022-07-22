@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#A50A15</color>
+    <color name="colorAccent">#870912</color>
+    <color name="vermelhoEscuro">#A50A15</color>
+    <color name="vermelhoForte">#FF404E</color>
+</resources>

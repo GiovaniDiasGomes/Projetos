@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ifood">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activity.PedidosActivity"
+            android:parentActivityName=".activity.EmpresaActivity"></activity>
+        <activity
+            android:name=".activity.CardapioActivity"
+            android:parentActivityName=".activity.HomeActivity" />
+        <activity
+            android:name=".activity.ConfiguracoesUsuarioActivity"
+            android:parentActivityName=".activity.HomeActivity" />
+        <activity
+            android:name=".activity.NovoProdutoEmpresaActivity"
+            android:parentActivityName=".activity.EmpresaActivity" />
+        <activity
+            android:name=".activity.ConfiguracoesEmpresaActivity"
+            android:parentActivityName=".activity.EmpresaActivity" />
+        <activity android:name=".activity.EmpresaActivity" />
+        <activity android:name=".activity.HomeActivity" />
+        <activity android:name=".activity.AutenticacaoActivity" />
+        <activity android:name=".activity.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuNovoProduto"
+        android:icon="@drawable/ic_adicionar_preto_24dp"
+        android:title="@string/menu_produto"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menuPedidos"
+        android:icon="@drawable/ic_pedido_preto_24dp"
+        android:title="@string/pedidos"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menuConfiguracoes"
+        android:title="@string/menu_configuracoes"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menuSair"
+        android:title="@string/menu_sair"
+        app:showAsAction="never" />
+
+</menu>
